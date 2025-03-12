@@ -17,37 +17,37 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "군밤의 미학"
+    text: "사랑은 군밤처럼, 군밤이야말로 사랑이 아닐까"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "뜨겁게 타오르다."
+        desc: "타인의 범죄행위로 인하여 생명·신체에 대한 피해를 받은 국민은 법률이 정하는 바에 의하여 국가로부터 구조를 받을 수 있다. 국가는 농수산물의 수급균형과 유통구조의 개선에 노력하여 가격안정을 도모함으로써 농·어민의 이익을 보호한다."
+        icon: fas fa-fire #find more at https://fontawesome.com/icons
+      - title: "껍질을 내려놓다"
+        desc: "대통령은 제3항과 제4항의 사유를 지체없이 공포하여야 한다. 정기회의 회기는 100일을, 임시회의 회기는 30일을 초과할 수 없다. 군사재판을 관할하기 위하여 특별법원으로서 군사법원을 둘 수 있다."
+        icon: fas fa-folder-open
+      - title: "담백하게 다가가다"
+        desc: "대통령후보자가 1인일 때에는 그 득표수가 선거권자 총수의 3분의 1 이상이 아니면 대통령으로 당선될 수 없다. 국가는 균형있는 국민경제의 성장 및 안정과 적정한 소득의 분배를 유지하고, 시장의 지배와 경제력의 남용을 방지하며, 경제주체간의 조화를 통한 경제의 민주화를 위하여 경제에 관한 규제와 조정을 할 수 있다."
+        icon: far fa-heart
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "군밤의 탄생"
+    text: "군밤이란 사랑으로써 완성된다."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "레시피 닫기"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "군밤에 대하여"
+    text: "지난 추억일 뿐이지요"
+    body: 국회의원은 현행범인인 경우를 제외하고는 회기중 국회의 동의없이 체포 또는 구금되지 아니한다. 국회는 헌법개정안이 공고된 날로부터 60일 이내에 의결하여야 하며, 국회의 의결은 재적의원 3분의 2 이상의 찬성을 얻어야 한다. 국가는 평생교육을 진흥하여야 한다. 공무원의 신분과 정치적 중립성은 법률이 정하는 바에 의하여 보장된다. 비상계엄하의 군사재판은 군인·군무원의 범죄나 군사에 관한 간첩죄의 경우와 초병·초소·유독음식물공급·포로에 관한 죄중 법률이 정한 경우에 한하여 단심으로 할 수 있다. 다만, 사형을 선고한 경우에는 그러하지 아니하다.
     section: about
 
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
-    name: "Name*"
+    name: "이름을 입력하세요."
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
